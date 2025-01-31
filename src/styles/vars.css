@@ -1,10 +1,10 @@
-:root{
+:root {
     /* FONT */
-    --font-dm-sans:"DM Sans", sans-serif;
+    --font-dm-sans: "DM Sans", sans-serif;
 
     /* COLORS */
-    --bg: #DE7D97;
-    --bg-sidebar: #E2B6BA;
-    --bg-icon:#fff;
-    --bg-arrow-color: #D55D7D;
+    --bg: #e49cb3;
+    --bg-sidebar: #EBADC0;
+    --bg-icon: #fff;
+    --bg-arrow-color: #DF7C99;
 }

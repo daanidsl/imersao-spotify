@@ -1,0 +1,40 @@
+{
+    "artists": [
+        {
+            "id": "1",
+            "name": "Harry Styles",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb"
+        },
+        {
+            "id": "2",
+            "name": "Zayn",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7a1fba1bb3618ef71355f82a"
+        },
+        {
+            "id": "3",
+            "name": "Niall Horan",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897"
+        },
+        {
+            "id": "4",
+            "name": "Liam Payne",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5eb4b2a3fffa1076ea1c920dcb2"
+        },
+        {
+            "id": "5",
+            "name": "Louis Tomlinson",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe169df750e95452a1de99692"
+        },
+        {
+            "id": "6",
+            "name": "One Direction",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8"
+        }
+    ]
+}
